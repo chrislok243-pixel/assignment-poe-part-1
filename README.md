@@ -24,3 +24,5 @@ Responsive design
  I used media queries for tablet/mobile ,≤768px and desktop ,≥769px.
  Navigation switches from multi-column to single-column. Images are responsive, and relative units (rem, %) keep everything flexible.
 ✔ This ensures the website adapts seamlessly to any screen size.
+
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/e092688e-96a6-4038-a776-9dab059f3882" />
