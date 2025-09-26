@@ -26,3 +26,29 @@ Responsive design
 ✔ This ensures the website adapts seamlessly to any screen size.
 
 <img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/e092688e-96a6-4038-a776-9dab059f3882" />
+
+
+
+
+
+CLN plumbing 
+CLN plumbing is a modern, responsive website built to showcase plumbing services, provide customer information, and make it easy for clients to get in touch.  
+
+---
+
+## 🌟 Features  
+- Responsive layout that adapts to mobile, tablet, and desktop  
+- Service descriptions with clear calls-to-action  
+- Contact form for customer inquiries  
+- Customer testimonials section  
+- Modern typography and branding  
+
+---
+
+## 🚀 Getting Started  
+
+### Installation  
+1. Clone this repository:  
+   ```bash
+ 
+
