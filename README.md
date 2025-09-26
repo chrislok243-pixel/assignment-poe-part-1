@@ -33,22 +33,16 @@ Responsive design
 
 CLN plumbing 
 CLN plumbing is a modern, responsive website built to showcase plumbing services, provide customer information, and make it easy for clients to get in touch.  
-
----
-
-## 🌟 Features  
+ Features  
 - Responsive layout that adapts to mobile, tablet, and desktop  
 - Service descriptions with clear calls-to-action  
 - Contact form for customer inquiries  
 - Customer testimonials section  
 - Modern typography and branding  
 
----
+ Getting Started  
 
-## 🚀 Getting Started  
 
-### Installation  
-1. Clone this repository:  
-   ```bash
+1. Clone this repository: https://github.com/chrislok243-pixel/assignment-poe-part-1.git
  
 
