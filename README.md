@@ -44,5 +44,56 @@ CLN plumbing is a modern, responsive website built to showcase plumbing services
 
 
 1. Clone this repository: https://github.com/chrislok243-pixel/assignment-poe-part-1.git
+
+2. POE PART 2 (CSS)
+
+https://github.com/chrislok243-pixel/assignment-poe-part-1.git
+
+Reference List:
+
+1.
+Ahrens, S. (2017) Responsive Typography: Using Type Well on the Web. New York: A Book Apart.
+
+2.
+Cederholm, D. (2010) CSS3 for Web Designers. New York: A Book Apart.
+
+3.
+Duckett, J. (2014) HTML & CSS: Design and Build Websites. Hoboken: Wiley.
+
+4.
+Keith, J. and Andrew, R. (2010) HTML5 for Web Designers. New York: A Book Apart.
+
+5.
+Marcotte, E. (2011) Responsive Web Design. New York: A Book Apart.
+
+6.
+Nielsen, J. (1995) 10 Usability Heuristics for User Interface Design. Nielsen Norman Group. Available at: https://www.nngroup.com/articles/ten-usability-heuristics/ (Accessed: 25 September 2025).
+
+7.
+W3C (2018) Media Queries Level 4. W3C Candidate Recommendation. Available at: https://www.w3.org/TR/mediaqueries-4/ (Accessed: 25 September 2025).
+
+
+I use also the reference lists of POE part 1 for my POE part 2
+
+
+1.Brett Jordan (n.d.) [brett-jordan-q8ZgKZutttE-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
+2.Copilot (2025) [Copilot_20250827_065837.png]. Microsoft Copilot generated image/capture.
+3.Hamish Duncan (n.d.) [hamish-duncan-X7W5MND0Wrl-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
+4.iStockphoto (n.d.) [istockphoto-511348739-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+5. iStockphoto (n.d.) [istockphoto-1318150161-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+6. iStockphoto (n.d.) [istockphoto-1424195041-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+7. iStockphoto (n.d.) [istockphoto-1498705061-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+8. iStockphoto (n.d.) [istockphoto-1740026412-1024x1024]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+9. iStockphoto (n.d.) [istockphoto-2159029518-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+10. iStockphoto (n.d.) [istockphoto-2180816813-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+11. iStockphoto (n.d.) [istockphoto-2186957743-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+12.iStockphoto (2022) [premium_photo-1661277751867-52a44000d9b8.avif]. iStock Premium. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+12. Yasintha Perera (n.d.) [yasintha-perera-oMgtkpr3Cpg-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
+
+
+
+
+
+
  
 
