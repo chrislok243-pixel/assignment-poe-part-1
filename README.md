@@ -91,9 +91,63 @@ I use also the reference lists of POE part 1 for my POE part 2
 12. Yasintha Perera (n.d.) [yasintha-perera-oMgtkpr3Cpg-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
 
 
+POE (javascript )
+
+The site has a strong basic structure with SEO-friendly elements (title, meta tags, and navigation).
+To improve search visibility:
+Use action-oriented meta descriptions.
+Add descriptive alt text for all images.
+Include location keywords like “Johannesburg plumber” in titles.
+
+Part 2: Navigation & Layout
+
+Navigation is consistent and easy to follow.
+To improve usability:
+Highlight the active page in the navbar.
+Optionally add breadcrumbs (e.g., “Home > Service”) for better user orientation.
+
+Part 3: Home Page Improvements
+
+The home page is visually clear and presents services, mission, and team.
+Enhancements recommended:
+Add a dynamic banner or slideshow for key messages
+Use fade-in animations to create a modern scroll effect.
+Include call-to-action (CTA) buttons like “Request Service” or “Contact Us.”
+
+Part 4: Service Page Improvement
+The page uses JavaScript to load services dynamically and allows live searching.
+Further improvements:
+Add complete descriptions for every service item.
+Group services into categories (Emergency / Installation / Maintenance).
+Optimize images to reduce load time and improve performance.
 
 
+reference lists
 
+1.Brett Jordan (n.d.) [brett-jordan-q8ZgKZutttE-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
 
+2.Copilot (2025) [Copilot_20250827_065837.png]. Microsoft Copilot generated image/capture.
+
+3.Hamish Duncan (n.d.) [hamish-duncan-X7W5MND0Wrl-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
+
+4.iStockphoto (n.d.) [istockphoto-511348739-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+
+5. iStockphoto (n.d.) [istockphoto-1318150161-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+6. 
+7. iStockphoto (n.d.) [istockphoto-1424195041-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+8. 
+9. iStockphoto (n.d.) [istockphoto-1498705061-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+10. 
+11. iStockphoto (n.d.) [istockphoto-1740026412-1024x1024]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+12. 
+13. iStockphoto (n.d.) [istockphoto-2159029518-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+14. 
+15. iStockphoto (n.d.) [istockphoto-2180816813-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+16. 
+17. iStockphoto (n.d.) [istockphoto-2186957743-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+18. 
+12.iStockphoto (2022) [premium_photo-1661277751867-52a44000d9b8.avif]. iStock Premium. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+
+20. Yasintha Perera (n.d.) [yasintha-perera-oMgtkpr3Cpg-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
  
 
