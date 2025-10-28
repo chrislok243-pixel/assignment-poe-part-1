@@ -91,6 +91,9 @@ I use also the reference lists of POE part 1 for my POE part 2
 12. Yasintha Perera (n.d.) [yasintha-perera-oMgtkpr3Cpg-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
 
 
+
+
+
 POE (javascript )
 
 The site has a strong basic structure with SEO-friendly elements (title, meta tags, and navigation).
@@ -123,6 +126,29 @@ Optimize images to reduce load time and improve performance.
 
 
 reference lists
+
+
+1.Duckett, J. (2014) JavaScript and JQuery: Interactive Front-End Web Development. Hoboken: Wiley.
+
+2.Flanagan, D. (2020) JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language. 7th ed. Sebastopol: O’Reilly Media.
+
+3.Crockford, D. (2019) How JavaScript Works: The Mechanisms of the Most Popular Programming Language. San Francisco: No Starch Press.
+
+4.Khan, T. (2023) Front-End Web Development with HTML, CSS, and JavaScript. London: Packt Publishing.
+
+5.Becker, L. (2022) ‘Creating accessible and responsive websites with JavaScript frameworks,’ Web Accessibility Review, 9(4), pp. 22–34.
+
+6.Eich, B. (2018) The Early History of JavaScript. Mountain View: Mozilla Foundation.
+
+7.Ladd, E. and O’Brien, J. (2022) Using JavaScript for Interactive Websites. New York: Pearson Education.
+
+8.Freeman, E. and Robson, E. (2021) Head First HTML and CSS with JavaScript. 3rd ed. Sebastopol: O’Reilly Media.
+
+9.Patel, A. (2023) ‘Dynamic content rendering using JavaScript in modern web pages,’ International Journal of Web Design and Technology, 11(2), pp. 45–59.
+
+
+
+I use also the reference lists of POE part 1 for my POE part 3
 
 1.Brett Jordan (n.d.) [brett-jordan-q8ZgKZutttE-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
 
