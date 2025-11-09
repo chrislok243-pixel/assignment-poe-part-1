@@ -99,8 +99,8 @@ I use also the reference lists of POE part 1 for my POE part 2
 
 
 POE (javascript )
-https://github.com/chrislok243-pixel/assignment-poe-part-1.git
 
+https://github.com/chrislok243-pixel/assignment-poe-part-1.git
 
 The site has a strong basic structure with SEO-friendly elements (title, meta tags, and navigation).
 To improve search visibility:
@@ -108,29 +108,49 @@ Use action-oriented meta descriptions.
 Add descriptive alt text for all images.
 
 Search engine optimization 
+
 The website’s SEO focuses on:
 1.	Good meta tags – clear titles, short descriptions, and useful keywords.
+   
 2.	Proper headings – one main title (H1) and smaller subheadings (H2, H3).
+   
 3.	Smart keywords – natural use of plumbing-related words.
+   
 4.	Image alt text – every picture has a short description.
+   
 5.	Clean links – simple page names like about.html and services.html.
-6.	Mobile-friendly design – works well on phones and loads fast.
-7.	Local SEO – includes business location and Google Map.
-8.	Social links – connects to social media for visibility.
-9.	Fresh content – updated pages with clear, useful info.
-10.	Analytics – track visits and improve SEO performance.
+    
+5.	Mobile-friendly design – works well on phones and loads fast.
+    
+6.	Local SEO – includes business location and Google Map.
+    
+7.	Social links – connects to social media for visibility.
+    
+8.	Fresh content – updated pages with clear, useful info.
+    
+9.	Analytics – track visits and improve SEO performance.
+    
     
 2. Functionality
 JavaScript Enhancements:
+
 2.1 Interactive Elements:
-•	Research and implement interactive elements like accordions, tabs, or modals to enhance user experience (using jQuery or other possible JavaScript frameworks).
-•	Create interactive maps using libraries like Leaflet, Mapbox, OpenLayers, or Google Maps API to create location-based features.
-•	Add animations and transitions using CSS and JavaScript.
-•	Explore and implement advanced DOM manipulation techniques to create dynamic web pages.
-•	Implement a gallery with a lightbox to display images in a larger view when clicked.
+
+Research and implement interactive elements like accordions, tabs, or modals to enhance user experience (using jQuery or other possible JavaScript frameworks).
+
+Create interactive maps using libraries like Leaflet, Mapbox, OpenLayers, or Google Maps API to create location-based features.
+
+Add animations and transitions using CSS and JavaScript.
+
+Explore and implement advanced DOM manipulation techniques to create dynamic web pages.
+
+Implement a gallery with a lightbox to display images in a larger view when clicked.
+
+
 2.2 Dynamic Content:
-•	Use JavaScript to dynamically load content, such as posts or product listings.
-•	Implement a search functionality to filter and sort content (either on services, products, or the events page).
+
+	Use JavaScript to dynamically load content, such as posts or product listings.
+	Implement a search functionality to filter and sort content (either on services, products, or the events page).
 
 
 Form Functionality & Validation (CLN Plumbing Website)
@@ -172,21 +192,21 @@ I use also the reference lists of POE part 1 for my POE part 3
 4.iStockphoto (n.d.) [istockphoto-511348739-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
 
 5. iStockphoto (n.d.) [istockphoto-1318150161-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
-6. 
-7. iStockphoto (n.d.) [istockphoto-1424195041-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
-8. 
-9. iStockphoto (n.d.) [istockphoto-1498705061-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
-10. 
-11. iStockphoto (n.d.) [istockphoto-1740026412-1024x1024]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
-12. 
-13. iStockphoto (n.d.) [istockphoto-2159029518-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
-14. 
-15. iStockphoto (n.d.) [istockphoto-2180816813-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
-16. 
-17. iStockphoto (n.d.) [istockphoto-2186957743-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
-18. 
+   
+6. iStockphoto (n.d.) [istockphoto-1424195041-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+   
+7. iStockphoto (n.d.) [istockphoto-1498705061-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+    
+08. iStockphoto (n.d.) [istockphoto-1740026412-1024x1024]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+    
+09. iStockphoto (n.d.) [istockphoto-2159029518-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+    
+10. iStockphoto (n.d.) [istockphoto-2180816813-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+    
+11. iStockphoto (n.d.) [istockphoto-2186957743-612x612]. iStock. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
+    
 12.iStockphoto (2022) [premium_photo-1661277751867-52a44000d9b8.avif]. iStock Premium. Available at: https://www.istockphoto.com (Accessed: 27 August 2025).
 
-20. Yasintha Perera (n.d.) [yasintha-perera-oMgtkpr3Cpg-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
+13. Yasintha Perera (n.d.) [yasintha-perera-oMgtkpr3Cpg-unsplash]. Unsplash. Available at: https://unsplash.com (Accessed: 27 August 2025).
  
 
