@@ -94,35 +94,48 @@ I use also the reference lists of POE part 1 for my POE part 2
 
 
 
+
+
+
+
 POE (javascript )
+https://github.com/chrislok243-pixel/assignment-poe-part-1.git
+
 
 The site has a strong basic structure with SEO-friendly elements (title, meta tags, and navigation).
 To improve search visibility:
 Use action-oriented meta descriptions.
 Add descriptive alt text for all images.
-Include location keywords like “Johannesburg plumber” in titles.
 
-Part 2: Navigation & Layout
+Search engine optimization 
+The website’s SEO focuses on:
+1.	Good meta tags – clear titles, short descriptions, and useful keywords.
+2.	Proper headings – one main title (H1) and smaller subheadings (H2, H3).
+3.	Smart keywords – natural use of plumbing-related words.
+4.	Image alt text – every picture has a short description.
+5.	Clean links – simple page names like about.html and services.html.
+6.	Mobile-friendly design – works well on phones and loads fast.
+7.	Local SEO – includes business location and Google Map.
+8.	Social links – connects to social media for visibility.
+9.	Fresh content – updated pages with clear, useful info.
+10.	Analytics – track visits and improve SEO performance.
+    
+2. Functionality
+JavaScript Enhancements:
+2.1 Interactive Elements:
+•	Research and implement interactive elements like accordions, tabs, or modals to enhance user experience (using jQuery or other possible JavaScript frameworks).
+•	Create interactive maps using libraries like Leaflet, Mapbox, OpenLayers, or Google Maps API to create location-based features.
+•	Add animations and transitions using CSS and JavaScript.
+•	Explore and implement advanced DOM manipulation techniques to create dynamic web pages.
+•	Implement a gallery with a lightbox to display images in a larger view when clicked.
+2.2 Dynamic Content:
+•	Use JavaScript to dynamically load content, such as posts or product listings.
+•	Implement a search functionality to filter and sort content (either on services, products, or the events page).
 
-Navigation is consistent and easy to follow.
-To improve usability:
-Highlight the active page in the navbar.
-Optionally add breadcrumbs (e.g., “Home > Service”) for better user orientation.
 
-Part 3: Home Page Improvements
-
-The home page is visually clear and presents services, mission, and team.
-Enhancements recommended:
-Add a dynamic banner or slideshow for key messages
-Use fade-in animations to create a modern scroll effect.
-Include call-to-action (CTA) buttons like “Request Service” or “Contact Us.”
-
-Part 4: Service Page Improvement
-The page uses JavaScript to load services dynamically and allows live searching.
-Further improvements:
-Add complete descriptions for every service item.
-Group services into categories (Emergency / Installation / Maintenance).
-Optimize images to reduce load time and improve performance.
+Form Functionality & Validation (CLN Plumbing Website)
+The CLN Plumbing website form lets users book services or send messages easily. It includes fields for name, email, phone, and message, all checked using JavaScript validation to make sure information is complete and correct.
+If any field is missing or invalid, an error message appears; when everything is correct, a success message confirms submission. The form also follows accessibility rules, includes basic spam protection, and gives users clear feedback to ensure a smooth experience.
 
 
 reference lists
